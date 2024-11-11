@@ -8,4 +8,5 @@ res.data.json;
     console.log(res.data);
 }
 
+
 fetchData();
