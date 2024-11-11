@@ -119,6 +119,6 @@
 // console.log(true | false); // true
 // console.log(false | false); // false
 
-let a = 1000000;
+let a = [1,2,3];
 
 console.log(a);
