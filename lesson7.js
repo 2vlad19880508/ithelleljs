@@ -65,6 +65,7 @@
 //   const test = new Person('Second');
 //   console.log(test.secondName)
 
+
 const numbers = [1, 2, 3, 4, 5];
 
 // const squaredNumbers = numbers.map(num => console.log(num * num));
