@@ -7,7 +7,6 @@ test('Create user', async() => {
     await apiCreat.creatUser();
 })
 
-
 // test('Login user', async() => {
 //     try {
 //         const response = await axios.get('https://reqres.in/api/login', {
